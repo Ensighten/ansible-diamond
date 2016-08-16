@@ -6,7 +6,7 @@
 
 diamond_dependencies:
   - python-configobj
-  - python-stdeb
+  - python-setuptools
 
 diamond_default_enabled: yes
 diamond_default_pid: /var/run/diamond.pid
